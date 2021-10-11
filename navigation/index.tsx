@@ -69,6 +69,7 @@ function BottomTabNavigator() {
         options={{
           title: 'Primera Vista',
           tabBarIcon: ({ color }) => <TabBarIcon name="soccer-ball-o" color={color} />,
+
         }}
       />
       <BottomTab.Screen
